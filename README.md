@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE HTML><html lang="en-US"><head>
     <meta charset="UTF-8"><base href="https://cdn-cd.akamaized.net">
     <title></title>
