@@ -1,5 +1,3 @@
-import os, time, random, sys, requests
-
 # !/bin/bash
 # Author 		: ./Lolz
 # Thanks to 		: JavaGhost - Bashid.org
